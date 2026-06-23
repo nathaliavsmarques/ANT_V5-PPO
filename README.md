@@ -137,7 +137,8 @@ O `clip_epsilon = 0.2` garante que a razão entre a política nova e a antiga nu
 
 ### Curva de Aprendizado
 
-![Curva de Aprendizado](curva_aprendizado.png)
+![Curva de Aprendizado](results/plots/curva_aprendizado.png)
+
 
 | Fase | Episódios | Comportamento |
 |---|---|---|
