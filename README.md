@@ -10,7 +10,7 @@
 
 ## 📋 Descrição do Projeto
 
-Este projeto implementa o algoritmo **PPO (Proximal Policy Optimization)** do zero para treinar um agente a controlar o robô quadrúpede **Ant-v5** do simulador MuJoCo. O objetivo do agente é aprender a coordenar simultaneamente 8 juntas motorizadas — 2 por perna (quadril e tornozelo) — para fazer o robô caminhar para frente de forma estável e eficiente, sem cair.
+Este projeto implementa o algoritmo **PPO (Proximal Policy Optimization)** do zero para treinar um agente a controlar o robô quadrúpede **Ant-v5** do simulador MuJoCo. O objetivo do agente é aprender a coordenar simultaneamente 8 juntas motorizadas, 2 por perna (quadril e tornozelo), para fazer o robô caminhar para frente de forma estável e eficiente, sem cair.
 
 O problema se enquadra na categoria de **sistemas dinâmicos e robótica avançada**: envolve controle de múltiplos atuadores, equilíbrio sob condições instáveis e física tridimensional realista.
 
