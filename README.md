@@ -1,13 +1,6 @@
 [README.md](https://github.com/user-attachments/files/29253044/README.md)
 # 🐜 Ant-v5 — Controle de Robô Quadrúpede com PPO
 
-**Disciplina:** Aprendizado por Reforço  
-**Instituição:** Universidade Federal do Rio Grande do Norte (UFRN) — Metrópole Digital  
-**Professora:** Tarciana Guerra  
-**Autora:** Nathalia Marques  
-
----
-
 ## 📋 Descrição do Projeto
 
 Este projeto implementa o algoritmo **PPO (Proximal Policy Optimization)** do zero para treinar um agente a controlar o robô quadrúpede **Ant-v5** do simulador MuJoCo. O objetivo do agente é aprender a coordenar simultaneamente 8 juntas motorizadas, 2 por perna (quadril e tornozelo), para fazer o robô caminhar para frente de forma estável e eficiente, sem cair.
